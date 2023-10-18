@@ -1,0 +1,4 @@
+# Project exclude paths
+/dispatcher/target/
+/node/target/
+/rabbitmq/target/
